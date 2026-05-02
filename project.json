@@ -1,0 +1,28 @@
+{
+  "overview": "Fashion Nest is a real-time South Indian fashion e-commerce platform featuring traditional and contemporary clothing, jewelry, and accessories with INR pricing, Stripe payments, and a curated lookbook experience.",
+  "features": [
+    "Product catalog with 40+ South Indian fashion items",
+    "New Arrivals, Women, Designers, Sale, and Accessories sections",
+    "Kanjivaram sarees, silk pattu sarees, half sarees, and traditional wear",
+    "Shopping cart with size/color variant selection",
+    "Stripe checkout with INR pricing",
+    "User accounts via Internet Identity",
+    "Admin panel for product and order management",
+    "Seasonal Lookbook with Spring, Summer, Autumn, Winter collections",
+    "Wishlist and saved addresses",
+    "Responsive design with OKLCH warm cream color palette"
+  ],
+  "category": "e-commerce",
+  "tags": [
+    "fashion",
+    "e-commerce",
+    "south-indian",
+    "sarees",
+    "clothing",
+    "jewelry",
+    "inr",
+    "stripe",
+    "lookbook"
+  ],
+  "last_updated": "2026-04-29T12:00:58.193Z"
+}
